@@ -1,0 +1,49 @@
+﻿  ephemeris.c
+  geoid.c
+  ionex.c
+  lambda.c
+  mdccssr.c
+  options.c
+  pntpos.c
+  postpos.c
+  ppp.c
+  ppp_ar.c
+  preceph.c
+  rinex.c
+C:\02software\MADOCALib-VS2022\MADOCALib-VS2022\src\rinex.c(240,35): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+  rnx2rtkp.c
+  rtcm.c
+  rtcm2.c
+  rtcm3.c
+  rtcm3e.c
+C:\02software\MADOCALib-VS2022\MADOCALib-VS2022\src\rtcm3e.c(575,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\02software\MADOCALib-VS2022\MADOCALib-VS2022\src\rtcm3e.c(595,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\02software\MADOCALib-VS2022\MADOCALib-VS2022\src\rtcm3e.c(596,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\02software\MADOCALib-VS2022\MADOCALib-VS2022\src\rtcm3e.c(928,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\02software\MADOCALib-VS2022\MADOCALib-VS2022\src\rtcm3e.c(929,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\02software\MADOCALib-VS2022\MADOCALib-VS2022\src\rtcm3e.c(930,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\02software\MADOCALib-VS2022\MADOCALib-VS2022\src\rtcm3e.c(931,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\02software\MADOCALib-VS2022\MADOCALib-VS2022\src\rtcm3e.c(932,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  rtkcmn.c
+  rtkpos.c
+C:\02software\MADOCALib-VS2022\MADOCALib-VS2022\src\rtkpos.c(1731,30): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  sbas.c
+  正在生成代码...
+  正在编译...
+  solution.c
+C:\02software\MADOCALib-VS2022\MADOCALib-VS2022\src\solution.c(1167,13): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+C:\02software\MADOCALib-VS2022\MADOCALib-VS2022\src\solution.c(1212,13): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+C:\02software\MADOCALib-VS2022\MADOCALib-VS2022\src\solution.c(1235,13): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+C:\02software\MADOCALib-VS2022\MADOCALib-VS2022\src\solution.c(1252,17): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+C:\02software\MADOCALib-VS2022\MADOCALib-VS2022\src\solution.c(1280,13): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+C:\02software\MADOCALib-VS2022\MADOCALib-VS2022\src\solution.c(1296,17): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+C:\02software\MADOCALib-VS2022\MADOCALib-VS2022\src\solution.c(1314,13): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+C:\02software\MADOCALib-VS2022\MADOCALib-VS2022\src\solution.c(1358,13): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+C:\02software\MADOCALib-VS2022\MADOCALib-VS2022\src\solution.c(1397,13): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+C:\02software\MADOCALib-VS2022\MADOCALib-VS2022\src\solution.c(1487,13): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+C:\02software\MADOCALib-VS2022\MADOCALib-VS2022\src\solution.c(1564,13): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+C:\02software\MADOCALib-VS2022\MADOCALib-VS2022\src\solution.c(1627,13): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+C:\02software\MADOCALib-VS2022\MADOCALib-VS2022\src\solution.c(1658,13): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+  tides.c
+  正在生成代码...
+  MADOCALib-VS2022.vcxproj -> C:\02software\MADOCALib-VS2022\MADOCALib-VS2022\x64\Debug\MADOCALib-VS2022.exe
